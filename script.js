@@ -1,0 +1,1 @@
+// escrever fecth linha por linha na aula
